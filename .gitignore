@@ -1,0 +1,8 @@
+vscode/
+build/
+build/*
+build/.cmake/
+build/pico-sdk/
+.DS_Store
+c_cpp_properties.json
+settings.json
